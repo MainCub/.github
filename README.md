@@ -20,5 +20,3 @@ Nosotros realizamos todo esto de manera rápida y eficiente, sin importar la com
   + **Sincronización cross-server**.
   + **Balanceo de arenas y equipos** en función de pautas de juego.
   + Algunos ejemplos: **BedWars, SkyWars, EggWars, SpeedBuilders, BuildBattle, entre otros**
-- Creación de plugins específicos: 
-  + Ejemplos: **Casas de subastas, Clanes Cross-server, Sistemas Anti-Dupe, Tienda Virtual, Encantamientos Especiales, KOTHs, Tradeos**, entre otros.
